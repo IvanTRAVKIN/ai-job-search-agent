@@ -1,34 +1,35 @@
-МОЙ ПОЛНЫЙ ПРОФИЛЬ (для бота)
-Пиши сюда ВСЁ, что ты делал, даже то, чего нет в резюме. Можно на русском, английском или французском.
-Бот сам выберет, что подходит под вакансию, и переведёт. Чем больше конкретики и цифр, тем лучше.
-Пиши только правду: бот берёт отсюда факты как есть.
-
-=== ОПЫТ ===
-(по образцу ниже для каждой работы, стажировки, фриланса, учебного проекта)
-
-Компания: Название компании
-Должность: Business Analyst
-Даты: месяц год – месяц год
-Город: Paris
-Что делал (всё подряд, каждая задача с новой строки):
-- ...
-- ...
-Инструменты: ...
-Результаты / цифры: ...
-
-=== ПРОЕКТЫ (учёба, свои, фриланс-заказы) ===
-- ...
-
-=== НАВЫКИ И ИНСТРУМЕНТЫ ===
-(всё, чем умеешь пользоваться, и на каком уровне)
-- ...
-
-=== КУРСЫ, СЕРТИФИКАТЫ ===
-- ...
-
-=== ВАРИАНТЫ НАЗВАНИЯ ПРОФЕССИИ, КОТОРЫЕ МНЕ ПОДХОДЯТ ===
+MY FULL PROFILE (for the bot)
+Write EVERYTHING you have done here, even things that are not in your CV. English or French is fine.
+The bot picks what fits each job and translates it. The more details and numbers, the better.
+Write only the truth: the bot uses these facts as they are.
+=== EXPERIENCE ===
+(use the template below for every job, internship, freelance gig or study project)
+Company: Company name
+Job title: Business Analyst
+Dates: month year – month year
+City: Paris
+What I did (everything, one task per line):
+- 
+...
+- 
+...
+Tools: ...
+Results / numbers: ...
+=== PROJECTS (study, personal, freelance) ===
+- 
+...
+=== SKILLS AND TOOLS ===
+(everything you can use, and at what level)
+- 
+...
+=== COURSES, CERTIFICATES ===
+- 
+...
+=== JOB TITLES THAT FIT ME ===
 Business Analyst, Pricing Analyst, Data Analyst, CRM Analyst, ...
-
-=== ЧТО ЕЩЁ ВАЖНО ЗНАТЬ ===
-(языки, разрешение на работу, готовность к переезду и т.д.)
-- ...
+=== JOB TITLES THAT DON'T FIT ME ===
+Data Engineer, Data Scientist, ...
+=== OTHER IMPORTANT INFO ===
+(languages, work permit, open to relocation, etc.)
+- 
+...
