@@ -1,0 +1,4 @@
+anthropic
+pypdf
+python-dotenv
+playwright
